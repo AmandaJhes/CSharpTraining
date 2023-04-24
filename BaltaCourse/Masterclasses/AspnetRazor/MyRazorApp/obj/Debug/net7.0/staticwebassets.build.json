@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "xfubj9ix2OGrtlh7I+GuBWQcOf/4+6NuctFUkUMXoZk=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp/wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Masterclasses/AspnetRazor/MyRazorApp/wwwroot/",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/bin/Debug/net7.0/Payments
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/bin/Debug/net7.0/Payments.deps.json
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/bin/Debug/net7.0/Payments.runtimeconfig.json
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/bin/Debug/net7.0/Payments.dll
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/bin/Debug/net7.0/Payments.pdb
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.csproj.AssemblyReference.cache
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.GeneratedMSBuildEditorConfig.editorconfig
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.AssemblyInfoInputs.cache
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.AssemblyInfo.cs
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.csproj.CoreCompileInputs.cache
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.dll
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/refint/Payments.dll
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.pdb
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.genruntimeconfig.cache
+/home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/ref/Payments.dll
