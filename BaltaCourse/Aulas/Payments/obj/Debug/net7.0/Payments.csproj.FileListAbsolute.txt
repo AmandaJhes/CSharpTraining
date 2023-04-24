@@ -13,3 +13,18 @@
 /home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.pdb
 /home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/Payments.genruntimeconfig.cache
 /home/amanda/Área de Trabalho/Em_andamento/cursos/c#/BaltaCourse/Aulas/Payments/obj/Debug/net7.0/ref/Payments.dll
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\bin\Debug\net7.0\Payments.exe
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\bin\Debug\net7.0\Payments.deps.json
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\bin\Debug\net7.0\Payments.runtimeconfig.json
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\bin\Debug\net7.0\Payments.dll
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\bin\Debug\net7.0\Payments.pdb
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.csproj.AssemblyReference.cache
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.AssemblyInfoInputs.cache
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.AssemblyInfo.cs
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.csproj.CoreCompileInputs.cache
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.dll
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\refint\Payments.dll
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.pdb
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\Payments.genruntimeconfig.cache
+C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\obj\Debug\net7.0\ref\Payments.dll
