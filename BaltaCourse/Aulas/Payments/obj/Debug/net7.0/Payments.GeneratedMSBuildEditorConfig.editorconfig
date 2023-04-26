@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Payments
-build_property.ProjectDir = C:\Repositorio\ESTUDOS\Csharp\CSharpTraining\BaltaCourse\Aulas\Payments\
+build_property.ProjectDir = /home/amanda/Área de Trabalho/Em_andamento/cursos/c#/CSharpTraining/BaltaCourse/Aulas/Payments/

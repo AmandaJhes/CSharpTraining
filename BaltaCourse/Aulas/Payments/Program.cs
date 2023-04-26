@@ -8,13 +8,27 @@
 
             Payments pagamento = new Payments();
 
+            Console.WriteLine(pagamento.MyVar);
+
 
         }
     }
 
     public class Payments
     {
-        private DateTime Vencimento;
+        DateTime Vencimento;
+
+        public int Property { get; set; }
+        private int _MyVar;
+
+        public int MyVar
+        {
+            get { return _MyVar; }
+            set { _MyVar = value; }
+        }
+
+        public int My { get; private set; }
+
 
         public void Pay()
         {
